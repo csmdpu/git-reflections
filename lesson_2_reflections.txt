@@ -7,3 +7,7 @@ How is the staging area different from the working directory and the repository?
 
 The staging area allows us to control which files are committed.
 
+How can you use the staging area to make sure you have one commit per logical change?
+
+I can run git diff and git diff --staged to see if I have selected just the right files for the commit.
+
