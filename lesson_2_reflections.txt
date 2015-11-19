@@ -21,3 +21,8 @@ How do the diagrams help you visualize the branch structure?
 
 You can see the forks, although they don't label all of the branches
 with their names.
+
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+The merge combines changes from two branches.
