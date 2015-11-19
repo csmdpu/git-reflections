@@ -26,3 +26,8 @@ with their names.
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 The merge combines changes from two branches.
+
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Git makes conservative merge operations, but they still require some work if the merge changes were not obvious.
